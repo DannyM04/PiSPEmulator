@@ -8,7 +8,7 @@ Current Features:
 - Home screen with buttons to select emulator platforms (PSP, N64, PC)
 - Dedicated screens for each emulator with placeholder messages
 - Consistent UI style with dark theme and flat buttons
-- Navigation buttons including a "Home" button on emulator screens
+- Navigation buttons including a home button on emulator screens
 - Escape key binding to exit application
 
 Future Goals (In no particular order):
